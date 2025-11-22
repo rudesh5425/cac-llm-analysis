@@ -22,4 +22,4 @@ plt.ylabel("CAC")
 plt.legend()
 plt.grid(True)
 
-plt.savefig("cac_trend.png")
+plt.savefig("cac_trennd.png")
