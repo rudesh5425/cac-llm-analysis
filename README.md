@@ -47,6 +47,6 @@ To meet the target CAC of 150, the company should:
 ## Files Included
 - `analysis.py` — Python analysis code  
 - `cac_trend.png` — Visualization  
-- `README.md` — Full data story  
+- `README.md` — Fulll daata story  
 
 ---
